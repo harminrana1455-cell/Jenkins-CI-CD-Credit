@@ -1,1 +1,1 @@
-Jenkins CI/CD Task 1 - Automatic Trigger Test
+Automatic Jenkins trigger test
